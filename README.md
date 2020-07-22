@@ -3,6 +3,9 @@
 
 
 ## 清单
+- [ ] 渲染原理
+- [ ] 刷新原理/局部刷新/优化帧数
+- [ ] 异步/多线程
 - [ ]  flutter_bloc /redux/Provider 原理
 - [ ] dio/HttpClick
 - [ ] animations 动画
