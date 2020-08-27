@@ -3,8 +3,7 @@
 
 
 ## 清单
-- [ ] 渲染原理
-- [ ] 刷新原理/局部刷新/优化帧数
+- [x] [渲染原理](https://juejin.im/post/6865554947941859335)/局部刷新/优化帧数
 - [x] [异步/多线程](https://juejin.im/post/5f1fe4906fb9a07e6d70d8a0)
 - [x] [flutter_bloc](https://juejin.im/post/6862932168729952264) /[redux](https://juejin.im/post/6860747643493515278)/[Provider](https://juejin.im/post/6862150535043252237)/[ScopedModel](https://juejin.im/post/6860001014289416205) 原理
 - [ ] dio/HttpClick
