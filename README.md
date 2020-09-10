@@ -15,6 +15,9 @@
 - [ ] rxdart
 - [ ] image_cropper 编辑图片
 - [x] [3种key的作用 ](https://juejin.im/post/6863300824660082701)
+- [ ] map linkmap 区别
+- [ ] 线程模型
+- [ ] vm虚拟机
 
 
 # Google快问快答记录
