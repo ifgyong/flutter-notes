@@ -7,7 +7,7 @@
 - [x] [渲染原理](https://juejin.im/post/6865554947941859335)/局部刷新/优化帧数
 - [x] [异步/多线程](https://juejin.im/post/5f1fe4906fb9a07e6d70d8a0)
 - [x] [flutter_bloc](https://juejin.im/post/6862932168729952264) /[redux](https://juejin.im/post/6860747643493515278)/[Provider](https://juejin.im/post/6862150535043252237)/[ScopedModel](https://juejin.im/post/6860001014289416205) 原理
- - [ ] dio/HttpClick
+- [ ] dio/HttpClick
 - [ ] animations 动画
 - [ ] flutter_spinkit
 - [ ] animated_text_kit 2.2.0
@@ -23,7 +23,31 @@
 
 
 ## iOS 
-[1. 多线程考察题目和答案](./1.多线程题目.md)
+- [1. 多线程考察题目和答案](./1.多线程题目.md)
+- [2. iOS 渲染原理解析 2020.5.27 冬瓜公众号](https://mp.weixin.qq.com/s/6ckRnyAALbCsXfZu56kTDw) [/离屏渲染触发条件和避免手段](./2.离屏渲染.md)
+- [3. iOS Memory 内存详解 2020.6.29 冬瓜公众号](https://mp.weixin.qq.com/s?__biz=MzA5MTM1NTc2Ng==&mid=2458322852&idx=1&sn=b3be904d955b20e292e3c2683e2b64f0&chksm=870e08bdb07981abdc9a847b6db5135ac58f651f3eda02b09e1120b7df402d8e5afa94b08eea&scene=178#rd)
+- [4. 内存释放优化](https://elliotsomething.github.io/2017/05/21/%E5%86%85%E5%AD%98%E9%87%8A%E6%94%BE%E4%BC%98%E5%8C%96/)/[子线程渲染](https://www.jianshu.com/p/dbada5f44ac1)
+- [5. ]()
+
+# iOS面试题 2020.10.28
+## 多线程面试题
+## Block面试题
+## 网络编程面试题
+## 设计模式面试题
+## 常用算法面试题
+## 数据结构面试题
+## 内存管理面试题
+## 数据库面试题
+## CPU和启动优化面试题
+## Runtime运行时面试题
+## 事件处理机制面试题
+## Runloop面试题
+## 渲染机制面试题
+## UI相关面试题
+## 无痕埋点
+### [无痕埋点](无痕埋点.md)
+## 卡顿监测
+### [卡顿监测](监测卡顿方案.md)
 
 # Google快问快答记录
 
